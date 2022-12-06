@@ -43,7 +43,13 @@ Feel free to reach out with any questions/comments. Additional notes will be upl
 ### CSE 140 - Components and Design Techniques for Digital Systems
 
 - **John Eldon, Fall 2022**
+- Grade solely based off of two midterms and a final exam
+- No mandatory homework, but textbook readings were helpful
+- *My Thoughts:* The class was very unorganized when I took it, with lectures consisting of a myriad of different topics combined together in one incoherent, unstructured mess. The content of the course doesn't really go too deep into any particular topics, but some of the more important concepts were sequential logic circuits and finite state machines.
 
 ### CSE 140L - Digital Systems Laboratory
 
 - **John Eldon, Fall 2022**
+- Grade consists of five labs on SystemVerilog, which you can work on in a group of up to three students
+- Having a Windows device is pretty much mandatory for this class, due to the use of Questa/ModelSim for simulation and Quartus for synthesis (trust me, you do not want to use EDAPlayground).
+- *My Thoughts:* I'd definitely advise working in a group for this class, since although the earlier labs can be done solo, the amount of work and level of understanding needed starts to ramp up for the last few.
