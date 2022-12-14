@@ -31,6 +31,9 @@ Feel free to reach out with any questions/comments. Additional notes will be upl
 ### CSE 101 - Design and Analysis of Algorithms
 
 - **Russell Impagliazzo, Spring 2022**
+- Weekly homework assignments with groups of up to four students
+- Homework problems consist mainly of proofs (similar to CSE 20/21), with  very few problems requiring code
+- **My Thoughts:** The course introduces some of the more important concepts to software engineering, including some of the algorithms/techniques essential to software OAs and interviews (divide/conquer, dynamic programming, greedy, etc). That being said, the content of the class is mostly conceptual, with nearly zero coding whatsoever, making the application of said concepts rather difficult. Can be a good start to the Leetcode grind.
 
 ### CSE 110 - Software Engineering
 
