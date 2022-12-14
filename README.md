@@ -23,10 +23,16 @@ Feel free to reach out with any questions/comments. Additional notes will be upl
 ### CSE 100 - Advanced Data Structures
 
 - **Niema Moshiri, Winter 2022**
+- Weekly PAs, with two projects due biweekly
+- Midterm/final are multiple-choice/short answer exams
+- **My Thoughts:** Great introduction to some of the more advanced concepts/data structures (red-black trees, hashmaps, disjoint sets, etc), as well as some very fundamental algorithms (BFS/DFS, Prim/Kruskal's, Dijkstra's). Niema does a great job at making the course intuitive and interesting, and all of the assignments/tests are doable, given you keep up with the Stepik readings.
 
 ### CSE 105 - Theory of Computability
 
 - **Shachar Lovett, Winter 2022**
+- Weekly homework assignments with groups of up to four students
+- Problems consist of drawing FSM diagrams, constructing transition tables, and writing proofs
+- **My Thoughts:** I've personally never taken CSE 20 or 21 (due to having taken the math equivalents), but I've been told the format of 105 is quite similar. Problems often involve induction or other forms of formal mathematical proof, which makes sense, as most of the course is theoretical. Some of the concepts in designing FSM and other automata can be useful in other classes (i.e. CSE 140), but Turing machines are only briefly introduced. Provides a nice introduction into how computing works and gets students thinking at a low-level, but isn't entirely necessary to modern software development.
 
 ### CSE 101 - Design and Analysis of Algorithms
 
