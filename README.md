@@ -19,6 +19,9 @@ Feel free to reach out with any questions/comments. Additional notes will be upl
 ### CSE 30 - Computer Organization and Systems Programming
 
 - **Keith Muller, Fall 2021**
+- Weekly PAs on C and ARM64 Assembly
+- Two written midterms and one final
+- **My Thoughts:** The course provides a basic introduction to C and some of the more fundamental ideas behind it, including dynamic memory allocation and pointer logic.
 
 ### CSE 100 - Advanced Data Structures
 
@@ -32,6 +35,7 @@ Feel free to reach out with any questions/comments. Additional notes will be upl
 - **Shachar Lovett, Winter 2022**
 - Weekly homework assignments with groups of up to four students
 - Problems consist of drawing FSM diagrams, constructing transition tables, and writing proofs
+- [Link to YouTube videos I found helpful](https://www.youtube.com/playlist?list=PLEDKohdhLDt6QWA3_FKH4VB6J-FiNNm46)
 - **My Thoughts:** I've personally never taken CSE 20 or 21 (due to having taken the math equivalents), but I've been told the format of 105 is quite similar. Problems often involve induction or other forms of formal mathematical proof, which makes sense, as most of the course is theoretical. Some of the concepts in designing FSM and other automata can be useful in other classes (i.e. CSE 140), but Turing machines are only briefly introduced. Provides a nice introduction into how computing works and gets students thinking at a low-level, but isn't entirely necessary to modern software development.
 
 ### CSE 101 - Design and Analysis of Algorithms
