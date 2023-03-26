@@ -30,6 +30,13 @@ Feel free to reach out with any questions/comments. Additional notes will be upl
 - Midterm/final are multiple-choice/short answer exams
 - **My Thoughts:** Great introduction to some of the more advanced concepts/data structures (red-black trees, hashmaps, disjoint sets, etc), as well as some very fundamental algorithms (BFS/DFS, Prim/Kruskal's, Dijkstra's). Niema does a great job at making the course intuitive and interesting, and all of the assignments/tests are doable, given you keep up with the Stepik readings.
 
+### CSE 101 - Design and Analysis of Algorithms
+
+- **Russell Impagliazzo, Spring 2022**
+- Weekly homework assignments with groups of up to four students
+- Homework problems consist mainly of proofs (similar to CSE 20/21), with  very few problems requiring code
+- **My Thoughts:** The course introduces some of the more important concepts to software engineering, including some of the algorithms/techniques essential to software OAs and interviews (divide/conquer, dynamic programming, greedy, etc). That being said, the content of the class is mostly conceptual, with nearly zero coding whatsoever, making the application of said concepts rather difficult. Can be a good start to the Leetcode grind.
+
 ### CSE 105 - Theory of Computability
 
 - **Shachar Lovett, Winter 2022**
@@ -37,13 +44,6 @@ Feel free to reach out with any questions/comments. Additional notes will be upl
 - Problems consist of drawing FSM diagrams, constructing transition tables, and writing proofs
 - [Link to YouTube videos I found helpful](https://www.youtube.com/playlist?list=PLEDKohdhLDt6QWA3_FKH4VB6J-FiNNm46)
 - **My Thoughts:** I've personally never taken CSE 20 or 21 (due to having taken the math equivalents), but I've been told the format of 105 is quite similar. Problems often involve induction or other forms of formal mathematical proof, which makes sense, as most of the course is theoretical. Some of the concepts in designing FSM and other automata can be useful in other classes (i.e. CSE 140), but Turing machines are only briefly introduced. Provides a nice introduction into how computing works and gets students thinking at a low-level, but isn't entirely necessary to modern software development.
-
-### CSE 101 - Design and Analysis of Algorithms
-
-- **Russell Impagliazzo, Spring 2022**
-- Weekly homework assignments with groups of up to four students
-- Homework problems consist mainly of proofs (similar to CSE 20/21), with  very few problems requiring code
-- **My Thoughts:** The course introduces some of the more important concepts to software engineering, including some of the algorithms/techniques essential to software OAs and interviews (divide/conquer, dynamic programming, greedy, etc). That being said, the content of the class is mostly conceptual, with nearly zero coding whatsoever, making the application of said concepts rather difficult. Can be a good start to the Leetcode grind.
 
 ### CSE 110 - Software Engineering
 
