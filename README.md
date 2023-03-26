@@ -53,6 +53,19 @@ Feel free to reach out with any questions/comments. Additional notes will be upl
 - There are two midterms, both of which are closed-note paper exams, which test you on your understanding of software engineering concepts, basic web design ideas, and other terminology.
 - *My Thoughts:* I fairly enjoyed the content covered, as someone with a fair amount of experience with both front-end and back-end web development. That being said, the course doesn't go into some of the more complex aspects of web design (HTTP, REST, database systems), and every group is supposed to use local storage/Vanilla JS for their site, which is extremely unrealistic for any real-world web application. The course does, however, provide some insights into agile development and basic CI/CD which I thought were pretty helpful, but most of the actual learning is done through MDN Web Docs and Googling. Good introduction to modern web development and some of the broader concepts behind software engineering.
 
+### CSE 130 - Programming Languages: Principles and Paradigms
+
+- **Michael Borkowski, Winter 2023**
+- Weekly homework assignments consisting of lambda calculus problems, Haskell PAs, and proofs, with homework pairs allowed
+- **My Thoughts:** The quarter I took this class was with a new professor, but most of the content is similar to that of other iterations of this course. The focus is primarily on Haskell, a purely functional programming language and as a result, the programming assignments can get quite involved.
+
+### CSE 134B - Web Client Languages
+
+- **Thomas Powell, Winter 2023**
+- Weekly homework assignments with groups of up to four students
+- Homework problems consist mainly of proofs (similar to CSE 20/21), with  very few problems requiring code
+- **My Thoughts:** This class provides a pretty solid introduction to the basics of HTML, CSS, JS, and HTTP, which are almost mandatory to learning frameworks/libraries such as React, Angular, etc, or learning REST. The professor makes it a goal to drive home mastering these fundamentals before moving on to frameworks, which can be useful for those who have little to no experience with web development.
+
 ### CSE 140 - Components and Design Techniques for Digital Systems
 
 - **John Eldon, Fall 2022**
