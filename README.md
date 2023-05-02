@@ -51,7 +51,7 @@ Feel free to reach out with any questions/comments. Additional notes will be upl
 - The entire class is essentially a quarter-long project with a team of ~10 students, with the goal being to make a full-stack web application using HTML, CSS and JS
 - Labs are assigned every week to teach concepts in HTML, CSS, JS, Jest/Puppeteer, and more
 - There are two midterms, both of which are closed-note paper exams, which test you on your understanding of software engineering concepts, basic web design ideas, and other terminology.
-- *My Thoughts:* I fairly enjoyed the content covered, as someone with a fair amount of experience with both front-end and back-end web development. That being said, the course doesn't go into some of the more complex aspects of web design (HTTP, REST, database systems), and every group is supposed to use local storage/Vanilla JS for their site, which is extremely unrealistic for any real-world web application. The course does, however, provide some insights into agile development and basic CI/CD which I thought were pretty helpful, but most of the actual learning is done through MDN Web Docs and Googling. Good introduction to modern web development and some of the broader concepts behind software engineering.
+- **My Thoughts:** I fairly enjoyed the content covered, as someone with a fair amount of experience with both front-end and back-end web development. That being said, the course doesn't go into some of the more complex aspects of web design (HTTP, REST, database systems), and every group is supposed to use local storage/Vanilla JS for their site, which is extremely unrealistic for any real-world web application. The course does, however, provide some insights into agile development and basic CI/CD which I thought were pretty helpful, but most of the actual learning is done through MDN Web Docs and Googling. Good introduction to modern web development and some of the broader concepts behind software engineering.
 
 ### CSE 130 - Programming Languages: Principles and Paradigms
 
@@ -66,16 +66,37 @@ Feel free to reach out with any questions/comments. Additional notes will be upl
 - Homework problems consist mainly of proofs (similar to CSE 20/21), with  very few problems requiring code
 - **My Thoughts:** This class provides a pretty solid introduction to the basics of HTML, CSS, JS, and HTTP, which are almost mandatory to learning frameworks/libraries such as React, Angular, etc, or learning REST. The professor makes it a goal to drive home mastering these fundamentals before moving on to frameworks, which can be useful for those who have little to no experience with web development.
 
+### CSE 135 - Online Database Analytics Applications
+
+- **Thomas Powell, Spring 2023**
+- Biweekly homework assignments with groups of up to three students
+- Homework involves writing scripts on an Apache2 server implementing various server-side/database functionality
+- **My Thoughts:** Taking CSE 134B should more or less be a prerequisite for this course, since working with HTTP calls, browser, etc is all necessary in order to do server-side well. The class doesn't go over databases too in-depth, but it does cover a variety of server-side langauges including Node.js/Express, PHP, Perl, JSP, and more.
+
 ### CSE 140 - Components and Design Techniques for Digital Systems
 
 - **John Eldon, Fall 2022**
 - Grade solely based off of two midterms and a final exam
 - No mandatory homework, but textbook readings were helpful
-- *My Thoughts:* The class was very unorganized when I took it, with lectures consisting of a myriad of different topics combined together in one incoherent, unstructured mess. The content of the course doesn't really go too deep into any particular topics, but some of the more important concepts were sequential logic circuits and finite state machines.
+- **My Thoughts:** The class was very unorganized when I took it, with lectures consisting of a myriad of different topics combined together in one incoherent, unstructured mess. The content of the course doesn't really go too deep into any particular topics, but some of the more important concepts were sequential logic circuits and finite state machines.
 
 ### CSE 140L - Digital Systems Laboratory
 
 - **John Eldon, Fall 2022**
 - Grade consists of five labs on SystemVerilog, which you can work on in a group of up to three students
 - Having a Windows device is pretty much mandatory for this class, due to the use of Questa/ModelSim for simulation and Quartus for synthesis (trust me, you do not want to use EDAPlayground).
-- *My Thoughts:* I'd definitely advise working in a group for this class, since although the earlier labs can be done solo, the amount of work and level of understanding needed starts to ramp up for the last few. Office hours are also very helpful, since TAs can help with debugging the more elusive errors.
+- **My Thoughts:** I'd definitely advise working in a group for this class, since although the earlier labs can be done solo, the amount of work and level of understanding needed starts to ramp up for the last few. Office hours are also very helpful, since TAs can help with debugging the more elusive errors.
+
+### CSE 150B - Introduction to Artificial Intelligence: Search and Reasoning
+
+- **Sicun Gao, Spring 2023**
+- Five biweekly programming assignments in Python/Pygame, implementing search algorithms, 2048, Blackjack, Gomoku, and Sudoku
+- Final is a 32hr take-home exam
+- **My Thoughts:** I will start by saying that Professor Gao is one of the best professors that I've had in the CSE department. His lectures manage to break down unintuitive, math-heavy, theoretical concepts and algorithms into understandable terminology/jargon for undergraduate students, which is something that cannot be said for a lot of professors in less-involved disciplines. The goal of the class is to go through the algorithms behind the game Gomoku
+
+### CSE 182 Biological Databases
+
+- **Vineet Bafna, Spring 2023**
+- Biweekly programming assignments using any language of your choice (Python preferred), implmenting various algorithms and functions for DNA sequencing and manipulation
+- Free-response midterm and final exams
+- **My Thoughts:** As someone with almost zero background in biology, this class proved to be a bit challenging in regards to the biology knowledge expected of students taking the class. CSE 100 and CSE 101 cover a lot of the concepts behind much of the content in the class (Aho-Corasick Automaton, Divide and Conquer, Dynamic Programming, etc).
