@@ -62,9 +62,9 @@ Feel free to reach out with any questions/comments. Additional notes will be upl
 ### CSE 134B - Web Client Languages
 
 - **Thomas Powell, Winter 2023**
-- Weekly homework assignments with groups of up to four students
-- Homework problems consist mainly of proofs (similar to CSE 20/21), with  very few problems requiring code
-- **My Thoughts:** This class provides a pretty solid introduction to the basics of HTML, CSS, JS, and HTTP, which are almost mandatory to learning frameworks/libraries such as React, Angular, etc, or learning REST. The professor makes it a goal to drive home mastering these fundamentals before moving on to frameworks, which can be useful for those who have little to no experience with web development.
+- Weekly homework assignments
+- Homework problems are mainly HTML/CSS/JS exercises that require you to implement a basic website with functionality
+- **My Thoughts:** This class provides a pretty solid introduction to the basics of HTML, CSS, JS, and HTTP, which are almost mandatory to learning frameworks/libraries such as React, Angular, etc, or learning REST. Exams are very memorization-heavy, as they involve writing code on paper and memorizing macro-level concepts on web development.
 
 ### CSE 135 - Online Database Analytics Applications
 
